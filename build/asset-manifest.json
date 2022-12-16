@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5cfc3523.chunk.css",
+    "main.js": "/static/js/main.f378690b.chunk.js",
+    "main.js.map": "/static/js/main.f378690b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.dc09edea.js",
+    "runtime-main.js.map": "/static/js/runtime-main.dc09edea.js.map",
+    "static/js/2.95184115.chunk.js": "/static/js/2.95184115.chunk.js",
+    "static/js/2.95184115.chunk.js.map": "/static/js/2.95184115.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.5cfc3523.chunk.css.map": "/static/css/main.5cfc3523.chunk.css.map",
+    "static/js/2.95184115.chunk.js.LICENSE.txt": "/static/js/2.95184115.chunk.js.LICENSE.txt",
+    "static/media/WHO_logo1.48db6ba7.png": "/static/media/WHO_logo1.48db6ba7.png",
+    "static/media/cdc-2.4d6963e1.svg": "/static/media/cdc-2.4d6963e1.svg",
+    "static/media/style.css": "/static/media/travel-policy.c21e262c.jpg",
+    "static/media/unwfp.0a3591eb.jpeg": "/static/media/unwfp.0a3591eb.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc09edea.js",
+    "static/js/2.95184115.chunk.js",
+    "static/css/main.5cfc3523.chunk.css",
+    "static/js/main.f378690b.chunk.js"
+  ]
+}

@@ -1,0 +1,46 @@
+* { box-sizing: border-box; }
+
+body {
+    background-color: #ffebea;
+}
+
+h1, h2, h4 {
+    font-family: 'STIX Two Text', serif;
+    margin-bottom: 10px;
+}
+
+h1 {
+    color: red;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+section {
+    margin-top: 25px;   
+}
+
+p, li, figure {
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    margin: 10px 10px;
+}
+
+li {
+    margin: 10px 0;
+}
+
+a:link {
+    color:red;
+}
+
+a:visited {
+    color: #440003;
+}
+
+a:hover {
+    color:#c23b22;
+}
+
+img {
+    height:400px;
+}

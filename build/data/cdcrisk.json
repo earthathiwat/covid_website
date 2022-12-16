@@ -1,0 +1,302 @@
+[
+    {
+        "country_name": "Andorra",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Argentina",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Aruba",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Bahrain",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Bangladesh",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Botswana",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Brazil",
+        "risk_level": 4
+    },
+    {
+        "country_name": "British Virgin Islands",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Burundi",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Central African Republic",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Colombia",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Costa Rica",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Cuba",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Curaçao",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Democratic Republic of the Congo",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Dominica",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Eswatini",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Fiji",
+        "risk_level": 4
+    },
+    {
+        "country_name": "France",
+        "risk_level": 4
+    },
+    {
+        "country_name": "French Guiana",
+        "risk_level": 4
+    },
+    {
+        "country_name": "French Polynesia",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Georgia",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Gibraltar",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Greece",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Guadeloupe",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Guinea-Bissau",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Iceland",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Indonesia",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Iran",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Iraq",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Ireland",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Isle of Man",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Israel",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Jersey",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Kazakhstan",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Kyrgyzstan",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Kuwait",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Lesotho",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Libya",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Madagascar",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Malaysia",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Maldives",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Malta",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Martinique",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Mongolia",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Montenegro",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Myanmar",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Namibia",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Nepal",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Netherlands",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Nicaragua",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Oman",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Panama",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Papua New Guinea",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Paraguay",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Portugal",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Réunion",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Rwanda",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Saint Barthelemy",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Saint Martin",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Saudi Arabia",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Seychelles",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Somalia",
+        "risk_level": 4
+    },
+    {
+        "country_name": "South Africa",
+        "risk_level": 4
+    },
+    {
+        "country_name": "South Sudan",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Spain",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Suriname",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Thailand",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Tunisia",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Turkey",
+        "risk_level": 4
+    },
+    {
+        "country_name": "United Arab Emirates",
+        "risk_level": 4
+    },
+    {
+        "country_name": "United Kingdom",
+        "risk_level": 4
+    },
+    {
+        "country_name": "United States",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Virgin Islands, U.S.",
+        "risk_level": 4
+    },
+    {
+        "country_name": "Zimbabwe",
+        "risk_level": 4
+    }
+]
