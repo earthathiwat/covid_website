@@ -1,6 +1,6 @@
-# INFO 340 Project
+# Covid Website Project
 
-Welcome to our INFO340 project! In this project, we designed and implemented an interactive web application that helps people navigate and learn about different countries, with a focus on tourism. Our website was created during the peak of the COVID-19 pandemic as a way to help people discover new places and plan future trips. You can access the application at this link: https://covid-19-gtic.web.app.
+Welcome to our Covid Website project as a part of INFO340 class! In this project, we designed and implemented an interactive web application that helps people navigate and learn about different countries, with a focus on tourism. Our website was created during the peak of the COVID-19 pandemic as a way to help people discover new places and plan future trips. You can access the application at this link: https://covid-19-gtic.web.app.
 
 ## Objectives
 Through this project, we practiced and mastered a range of skills, including:
